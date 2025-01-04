@@ -1,0 +1,26 @@
+{
+  "ModId": "legobatman.patches.demotag",
+  "ModName": "Demolition Ability",
+  "ModAuthor": "devz",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Gives custom characters the ability to place bombs using the 'can_place_bombs' tag.",
+  "ModDll": "legobatman.patches.demotag.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/legobatman.patches.demotag.dll",
+  "ModR2RManagedDll64": "x64/legobatman.patches.demotag.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "legobatman.patches.demotag.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "legobatman.exe"
+  ],
+  "ProjectUrl": ""
+}
